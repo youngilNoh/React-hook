@@ -9,7 +9,7 @@ const App = () => {
   useEffect(sayHello, [number, aNumber]);
   return (
     <div className="App">
-      <h1>useTabs</h1>
+      <h1>useEffect</h1>
       <button onClick={() => setNumber(number + 1)}>{number}</button>
       <button onClick={() => setAnumber(aNumber + 1)}>{aNumber}</button>
       <button onClick={() => setBnumber(bNumber + 1)}>{bNumber}</button>
