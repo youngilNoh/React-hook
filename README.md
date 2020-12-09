@@ -9,10 +9,10 @@ Collection of React Hooks ready to install with NPM
 - [x] useTitle
 - [x] useClick
 - [x] useBeforeLeave
-- [ ] useFadeIn
+- [x] useFadeIn
 - [ ] useFullscreen
 - [x] useHover
-- [ ] useNetwork
+- [x] useNetwork
 - [ ] useNotification
 - [ ] useScroll
 - [x] usePreventLeave
